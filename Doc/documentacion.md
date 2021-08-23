@@ -24,3 +24,6 @@ git add "nombre del archivo sin las """
 
 git add .
 - Para agregar todos los archivos a git
+
+git commit -m "mensaje"
+- Es para agregar un mensaje a los archivos guardados.
