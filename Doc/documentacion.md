@@ -30,3 +30,6 @@ git commit -m "mensaje"
 
 git commit -am 
 - Agrega a todos los archivos ( solo modificados )
+
+git checkout 
+- Para volver al estado anterior 
