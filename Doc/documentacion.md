@@ -61,3 +61,9 @@ git log --sumary
 
 git log --oneline
 - Muestra la informacion convensada solo commit y has
+
+git log --oneline -n 5
+- Muestra un log de solo 5 commit
+
+git log --pretty=format"El autor es %an del commit $h"
+- Para ver la informacion personalizada
