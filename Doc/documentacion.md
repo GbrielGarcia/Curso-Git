@@ -38,4 +38,5 @@ git checkout -f
 - para forsarlo
 
 
-Me lo paso por los huevos v: Nuevamente
+git restore --staged
+- para sacar los archivos en espacio de proceso "git add"
