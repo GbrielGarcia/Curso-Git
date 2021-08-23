@@ -40,3 +40,9 @@ git checkout -f
 
 git restore --staged
 - para sacar los archivos en espacio de proceso "git add"
+  
+git diff
+- Para ver las diferencias entre los archivos editados.
+
+git diff --stats
+- Es para mostrar estadiscas de los archivos editados.
