@@ -36,3 +36,6 @@ git checkout
 
 git checkout -f
 - para forsarlo
+
+
+Me lo paso por los huevos v: Nuevamente
