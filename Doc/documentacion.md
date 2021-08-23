@@ -46,3 +46,18 @@ git diff
 
 git diff --stats
 - Es para mostrar estadiscas de los archivos editados.
+
+git checkout <numero del commit>
+- Para visualizar el commit de ese tiempo.
+
+git log 
+- Para ver la informacion del commit
+
+git log --raw
+- Nos da tambien la informacion de los archivos en ese commit
+
+git log --sumary
+- Para ver la informacion convensada
+
+git log --oneline
+- Muestra la informacion convensada solo commit y has
