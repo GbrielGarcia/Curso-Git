@@ -1,0 +1,1 @@
+Inicializando curso de git.
