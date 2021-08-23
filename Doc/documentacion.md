@@ -33,3 +33,6 @@ git commit -am
 
 git checkout 
 - Para volver al estado anterior 
+
+git checkout -f
+- para forsarlo
