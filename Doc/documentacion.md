@@ -27,3 +27,6 @@ git add .
 
 git commit -m "mensaje"
 - Es para agregar un mensaje a los archivos guardados.
+
+git commit -am 
+- Agrega a todos los archivos ( solo modificados )
