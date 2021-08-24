@@ -67,3 +67,6 @@ git log --oneline -n 5
 
 git log --pretty=format"El autor es %an del commit $h"
 - Para ver la informacion personalizada
+
+git log --oneline --all --graph --decorate
+- Buena opcion para visualizar todos los master y sus difulcasiones
