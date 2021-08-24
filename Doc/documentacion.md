@@ -80,12 +80,17 @@ git branck
 - Para ver todas las ramas.
 
 ## ELIMINANDO RAMA
-
 git branch -D
 - Eliminando ramas
 
-### ESTOY EN LA RAMA MASTER 
+# ELIMINANDO UNA BRANCH EN LA NUBE
+- git push --delete origin
 
-## BRANCH DEVELOMENT
+### ESTOY EN LA RAMA MASTER
 
-.
+#### Opciones extras
+
+## Creacion de un tag para opciones de crear un archivo de zip.
+
+
+git tag -a #v -m ""
