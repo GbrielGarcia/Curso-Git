@@ -74,7 +74,12 @@ git log --oneline --all --graph --decorate
 =======
 git checkout -b 
 - Para crear una nueva rama
-
+## CREANDO RAMA
 git branck
 - Para ver todas las ramas.
 >>>>>>> dev
+
+## ELIMINANDO RAMA
+
+git branch -D
+- Eliminando ramas
