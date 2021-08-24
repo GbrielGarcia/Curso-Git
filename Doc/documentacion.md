@@ -66,7 +66,7 @@ git log --oneline -n 5
 - Muestra un log de solo 5 commit
 
 git log --pretty=format"El autor es %an del commit $h"
-- Para ver la informacion personalizada
+- Para ver la informacion **personalizada**
 
 <<<<<<< HEAD
 git log --oneline --all --graph --decorate
@@ -83,3 +83,5 @@ git branck
 
 git branch -D
 - Eliminando ramas
+
+### ESTOY EN LA RAMA MASTER 
