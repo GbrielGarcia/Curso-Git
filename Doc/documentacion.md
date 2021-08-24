@@ -71,13 +71,13 @@ git log --pretty=format"El autor es %an del commit $h"
 <<<<<<< HEAD
 git log --oneline --all --graph --decorate
 - Buena opcion para visualizar todos los master y sus difulcasiones
-=======
+  
+
 git checkout -b 
 - Para crear una nueva rama
 ## CREANDO RAMA
 git branck
 - Para ver todas las ramas.
->>>>>>> dev
 
 ## ELIMINANDO RAMA
 
@@ -85,3 +85,5 @@ git branch -D
 - Eliminando ramas
 
 ### ESTOY EN LA RAMA MASTER 
+
+## BRANCH DEVELOMENT
