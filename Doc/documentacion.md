@@ -90,7 +90,7 @@ git branch -D
 
 #### Opciones extras
 
-## Creacion de un tag para opciones de crear un archivo de zip.
+## Creacion de un tag para opciones de crear un archivo de zip..
 
 
 git tag -a #v -m ""
