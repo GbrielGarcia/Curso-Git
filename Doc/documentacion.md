@@ -67,3 +67,9 @@ git log --oneline -n 5
 
 git log --pretty=format"El autor es %an del commit $h"
 - Para ver la informacion personalizada
+
+git checkout -b 
+- Para crear una nueva rama
+
+git branck
+- Para ver todas las ramas.
